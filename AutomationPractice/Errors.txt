@@ -1,0 +1,14 @@
+All the errors I ve been facing while automation in Eclipse/Appium
+
+-Java path
+-No SLF4J providers were found 
+-URL cannot resolved to a type
+-UIautomatorviewer batch file is not opening
+-Cannot verify the signature of uiautomator server
+-An Element Could Not Be Located on the page using the given search parameters
+-NoSuchElementException
+-Scrolling method
+-Socket hangup
+
+
+
